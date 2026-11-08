@@ -6,12 +6,12 @@
 
 I build production-ready SaaS products, AI-powered apps, and workflow automations for startups and businesses worldwide.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gulrehman.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gulrehman.com)
-[![Email](https://img.shields.io/badge/Email-soomrogulrehman@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soomrogulrehman@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gulrehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulrehman)
-[![Twitter](https://img.shields.io/badge/Twitter-@soomrogulrehman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soomrogulrehman)
+<a href="https://gulrehman.com"><b>🌍 Portfolio</b></a> &nbsp;•&nbsp;
+<a href="mailto:soomrogulrehman@gmail.com"><b>✉️ soomrogulrehman@gmail.com</b></a>
 
-![Profile views](https://komarev.com/ghpvc/?username=gul-rehman&label=Profile%20views&color=0e75b6&style=flat)
+<a href="https://linkedin.com/in/gulrehman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="44"/></a> <a href="https://twitter.com/soomrogulrehman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="36" width="44"/></a> <a href="https://stackoverflow.com/users/14755731/gul-rehman" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="36" width="44"/></a> <a href="https://fb.com/gul.rehman.24" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="36" width="44"/></a> <a href="https://instagram.com/gul.rehman.24" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="36" width="44"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=gul-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -33,40 +33,40 @@ Software engineer from Pakistan with **3–4 years of experience** building full
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <a title="Next.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="44" height="44"/></a>
+  <a title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="44" height="44"/></a>
+  <a title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44"/></a>
+  <a title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44"/></a>
+  <a title="Tailwind CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="44" height="44"/></a>
+  <a title="Redux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="44" height="44"/></a>
+  <a title="React Native"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="React Native" width="44" height="44"/></a>
+  <a title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="44" height="44"/></a>
+</p>
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p align="center">
+  <a title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="44" height="44"/></a>
+  <a title="Supabase"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="44" height="44"/></a>
+  <a title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44"/></a>
+  <a title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="44" height="44"/></a>
+  <a title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="44" height="44"/></a>
+  <a title="SQL Server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="44" height="44"/></a>
+</p>
 
-**AI & Automation**
+**Tools & Automation**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-0e75b6?style=for-the-badge)
-![Voice AI](https://img.shields.io/badge/Voice_AI-Agents-orange?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+<p align="center">
+  <a title="Playwright"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="44" height="44"/></a>
+  <a title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="44" height="44"/></a>
+  <a title="Postman"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="44" height="44"/></a>
+  <a title="Figma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="44" height="44"/></a>
+  <a title="Photoshop"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="44" height="44"/></a>
+  <a title="Illustrator"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="44" height="44"/></a>
+</p>
 
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+**Also working with:** TanStack Query · OpenAI & LLM APIs · RAG pipelines · Voice AI agents · Chart.js
 
 ---
 
@@ -81,29 +81,6 @@ Software engineer from Pakistan with **3–4 years of experience** building full
 | **Websites & Web Apps** | Fast, responsive, SEO-friendly sites and internal tools |
 
 📩 **Have a project in mind?** [Email me](mailto:soomrogulrehman@gmail.com) or visit [gulrehman.com](https://gulrehman.com).
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gul-rehman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gul Rehman GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gul-rehman&layout=compact&theme=tokyonight&hide_border=true" alt="Gul Rehman top languages" />
-
-<img src="https://streak-stats.demolab.com?user=gul-rehman&theme=tokyonight&hide_border=true" alt="Gul Rehman GitHub streak" />
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=gul-rehman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌐 Find Me Online
-
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-gul--rehman-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14755731/gul-rehman)
-[![Facebook](https://img.shields.io/badge/Facebook-gul.rehman.24-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/gul.rehman.24)
-[![Instagram](https://img.shields.io/badge/Instagram-gul.rehman.24-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gul.rehman.24)
 
 ---
 
